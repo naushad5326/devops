@@ -1,2 +1,3 @@
-# devops
-learning
+# maven-project
+
+Simple Maven Project
